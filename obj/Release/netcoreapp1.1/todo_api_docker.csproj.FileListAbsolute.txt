@@ -1,8 +1,0 @@
-/Users/bryanbrophy/Projects/TodoApiDocker/todo_api_docker/bin/Release/netcoreapp1.1/todo_api_docker.deps.json
-/Users/bryanbrophy/Projects/TodoApiDocker/todo_api_docker/bin/Release/netcoreapp1.1/todo_api_docker.runtimeconfig.json
-/Users/bryanbrophy/Projects/TodoApiDocker/todo_api_docker/bin/Release/netcoreapp1.1/todo_api_docker.runtimeconfig.dev.json
-/Users/bryanbrophy/Projects/TodoApiDocker/todo_api_docker/bin/Release/netcoreapp1.1/todo_api_docker.dll
-/Users/bryanbrophy/Projects/TodoApiDocker/todo_api_docker/bin/Release/netcoreapp1.1/todo_api_docker.pdb
-/Users/bryanbrophy/Projects/TodoApiDocker/todo_api_docker/obj/Release/netcoreapp1.1/todo_api_docker.AssemblyInfo.cs
-/Users/bryanbrophy/Projects/TodoApiDocker/todo_api_docker/obj/Release/netcoreapp1.1/todo_api_docker.dll
-/Users/bryanbrophy/Projects/TodoApiDocker/todo_api_docker/obj/Release/netcoreapp1.1/todo_api_docker.pdb
