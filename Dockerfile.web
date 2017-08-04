@@ -1,0 +1,11 @@
+FROM microsoft/dotnet:1.1.2-runtime
+LABEL name "todo_api_docker"
+ 
+WORKDIR /app
+COPY out .
+ 
+ENV ASPNETCORE_URLS http://*:5000
+EXPOSE 5000
+ 
+CMD export ASPNETCORE_URLS=http://*:$PORT && dotnet todo_api_docker.dll
+
